@@ -4,7 +4,7 @@
 
 🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjkzMDUxYmQtMThhZi00NDMyLWIxZGMtMDRjZWQ1ZDg4MzJjIiwidCI6IjVlN2I1ODA0LTEyZmYtNDM0OC1hODFlLWQ5MDAwNjM0MGM5NiJ9)**
 
-![Dashboard Overview](assets/data-professional-survey-dashboard.png)
+![Image](https://github.com/user-attachments/assets/f7589580-4b85-4b26-b310-dd853eb12b05)
 
 > Designed for clear exploration, interaction, and insight discovery. Uses slicers, consistent formatting, and effective layout principles.
 
