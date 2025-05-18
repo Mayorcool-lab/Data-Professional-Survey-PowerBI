@@ -1,10 +1,9 @@
 # 🧠 Data Professional Survey Dashboard (Power BI)
-
 ## 📷 Dashboard Preview
 
 🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjkzMDUxYmQtMThhZi00NDMyLWIxZGMtMDRjZWQ1ZDg4MzJjIiwidCI6IjVlN2I1ODA0LTEyZmYtNDM0OC1hODFlLWQ5MDAwNjM0MGM5NiJ9)**
 
-![Image](https://github.com/user-attachments/assets/f7589580-4b85-4b26-b310-dd853eb12b05)
+![Image](https://github.com/user-attachments/assets/21994512-d1a4-43e9-862b-de1faac2337c)
 
 > Designed for clear exploration, interaction, and insight discovery. Uses slicers, consistent formatting, and effective layout principles.
 
